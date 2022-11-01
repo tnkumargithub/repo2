@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DA7A-3A87
+
+ Directory of C:\Users\vis15\Desktop\project
+
+11/01/2022  02:52 PM    <DIR>          .
+11/01/2022  02:52 PM    <DIR>          ..
+11/01/2022  02:52 PM                 0 sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  91,883,491,328 bytes free
